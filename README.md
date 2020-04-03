@@ -1,6 +1,6 @@
 # hackcam-v2
 هک وبکم قربانی با ارسال لینک دوربین لخت کن 
-
+<img src="https://github.com/HACKGM/hackcam-v2/blob/master/Campic.png">
 1- https://github.com/HACKGM/cam/blob/master/on-hotspot.png نقطه اتصال گوشی رو روشن کنید
 
 2- Download termux ترموکس رو دانلود کنید
